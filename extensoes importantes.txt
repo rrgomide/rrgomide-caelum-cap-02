@@ -1,0 +1,6 @@
+Instale as seguintes extensões pro VS Code:
+===========================================
+
+1) Ionic pack (Loiane)
+2) EditorConfig for VS Code
+3) Tema Monokai
